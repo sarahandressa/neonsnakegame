@@ -41,7 +41,7 @@ To further expand this software in future sprints, I intend to implement:
 
 ## Training Video
 
-[The Final Project Walkthrough Video]()
+[The Final Project Walkthrough Video](https://youtu.be/TLx9YAm-RZ0)
 
 ---
 
